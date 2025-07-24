@@ -45,17 +45,6 @@ This lab simulates an attacker pivot scenario through a segmented 3-router netwo
 
 ---
 
-## 📺 Silent Video Timeline
-
-> 00:10 — `show ip int brief` (R1)  
-> 00:25 — `show ip route` (R2)  
-> 00:40 — PC1 ➜ PC2 ping ✅  
-> 00:55 — PC2 ➜ PC3 ping ❌  
-> 01:10 — PC1 ➜ PC3 ping ✅  
-> 01:25 — `show access-lists` (R2)
-
----
-
 ## 📁 Files Included
 
 - `segmentation-lab.pkt` — Packet Tracer topology  
